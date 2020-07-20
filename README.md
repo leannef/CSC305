@@ -52,7 +52,8 @@ For details please see ass1/CSC305Assignment1.pdf
     * Add a skybox rendering pass after rendering the scene.
     * Make sure to use depth testing to avoid rendering the skybox where it isn’t necessary.
 
-## Assignment3: Improve the ray tracer from assignment 1 by doing bonus features such as 
+## Assignment3: 
+Improve the ray tracer from assignment 1 by doing bonus features such as 
   * Motion Blur
   * Applying a red color texture mapping
   * Solid texture
