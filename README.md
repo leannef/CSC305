@@ -1,4 +1,4 @@
-# CSC305-Introduction-to-Computer-Graphics
+# CSC305: Introduction to Computer Graphics
 
 ## Assignment1: 
 ### A ray tracer assignment using C++. 
